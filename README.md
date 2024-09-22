@@ -64,5 +64,3 @@ Allows users to add a new city by clicking on the map, entering details such as 
 - Run the app: `npm run dev`
 - Run the server : `npm run server`
 ---
-
-This README outlines the core features and structure of WorldWise. For more details on deploying or contributing, consult the full documentation.
