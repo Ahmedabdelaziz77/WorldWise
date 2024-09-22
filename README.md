@@ -58,7 +58,7 @@ Shows a list of all the countries visited, along with relevant statistics and a 
 Allows users to add a new city by clicking on the map, entering details such as city name, visit date, and personal notes.
 ![8-addNewCitySection](https://github.com/user-attachments/assets/7ea7993a-a3ac-4c00-b8e5-47942406d567)
 
-4. **Live Demo**: Includes a link to the live demo. Replace `world-wise-ts.netlify.app/` with the actual URL of your deployed site.
+4. **Live Demo**: [here](https://world-wise-ts.netlify.app/).
 
 ## Getting Started
 - Clone the repository
