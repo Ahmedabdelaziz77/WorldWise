@@ -34,29 +34,37 @@ The landing page introduces the app and includes navigation to the Pricing page,
 
 ### Pricing Page
 This page outlines subscription options and features for using the premium version of WorldWise.
+![2-pricingPage](https://github.com/user-attachments/assets/18be420f-0a82-4e15-8d68-f282353abc20)
 
-### About Page
+### Product Page
 Provides detailed information about the app, including its purpose, features, and benefits to users.
+![3-productPage](https://github.com/user-attachments/assets/b359e977-8f41-49a8-a56a-9295e90613ee)
 
 ### Login Page
 The login page authenticates users and leads them to the main app once logged in.
+![4-loginPage](https://github.com/user-attachments/assets/e3b2808c-fa22-4d74-af5e-ffcf872184dd)
 
 ## App Pages
 
 ### Main App Page
 Displays an interactive map showing visited locations. Users can click on map pins to add or update city details, or center the map on their current location.
+![5-mainAppPage](https://github.com/user-attachments/assets/8e396443-7407-41aa-b86b-c745aa24eab5)
 
 ### Countries Section
 Shows a list of all the countries visited, along with relevant statistics and a breakdown of cities visited in each country.
+![6-CountriesSection](https://github.com/user-attachments/assets/171cd41f-7698-4e83-8979-d5f391655240)
 
 ### Add New City Section
 Allows users to add a new city by clicking on the map, entering details such as city name, visit date, and personal notes.
+![8-addNewCitySection](https://github.com/user-attachments/assets/7ea7993a-a3ac-4c00-b8e5-47942406d567)
+
+4. **Live Demo**: Includes a link to the live demo. Replace `world-wise-ts.netlify.app/` with the actual URL of your deployed site.
 
 ## Getting Started
 - Clone the repository
 - Install dependencies: `npm install`
 - Run the app: `npm run dev`
-
+- Run the server : `npm run server`
 ---
 
 This README outlines the core features and structure of WorldWise. For more details on deploying or contributing, consult the full documentation.
