@@ -33,11 +33,9 @@ The landing page introduces the app and includes navigation to the Pricing page,
 ![1-homePage](https://github.com/user-attachments/assets/6bc38040-ae86-41cd-a49e-8afc5925f758)
 
 ### Pricing Page
-This page outlines subscription options and features for using the premium version of WorldWise.
 ![2-pricingPage](https://github.com/user-attachments/assets/18be420f-0a82-4e15-8d68-f282353abc20)
 
 ### Product Page
-Provides detailed information about the app, including its purpose, features, and benefits to users.
 ![3-productPage](https://github.com/user-attachments/assets/b359e977-8f41-49a8-a56a-9295e90613ee)
 
 ### Login Page
